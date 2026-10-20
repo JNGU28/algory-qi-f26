@@ -1,8 +1,4 @@
-"""Homework 3 starter — Algory QI Education, Fall 2026
 
-Fill in every function marked TODO. Keep the names: the checker looks for them.
-Run `python check_hw03.py` as you go.
-"""
 import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
