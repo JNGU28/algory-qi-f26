@@ -1,8 +1,4 @@
-"""Homework 2 starter — Algory QI Education, Fall 2026
 
-Fill in every function marked TODO. Do not rename them: the checker looks for
-these exact names. Run `python check_hw02.py` before you submit.
-"""
 import yfinance as yf
 import pandas as pd
 import numpy as np
